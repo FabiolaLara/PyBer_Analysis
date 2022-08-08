@@ -13,8 +13,12 @@ The following image shows the results for the data wher we can observe the diffe
 
 ![summarize_pyber_df](Resources/summarize_pyber_df.png)
 
+  The next graph shows clearly how rides vary for the three type of cities. It gives us a nice landscape on how fares are distributed between cero and 2500 dollars per week, the range for each one varies considerably, we can see that Rural average is around $500 dollars, Suburban is between $700 and nearly $1,400 dollars, and Urban city types is between a little bit more than $1,600 dollar and have a peak in some weeks getting the $ 2,500 dollars, althougt there is considered variation the fare for this city is the most attractive and is manteined almost in the range of $2,000 dollars and $2,500 dollars.
 
-
-
-# Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 ![Total_fare](Resources/Total_Fare_by_City_Type.png)
+
+
+
+# Summary: 
+
+   The recommendations once we have analyzed this results is that, some fares per ride for the Rural type could be reduced in order to increase the number of rides, for the Suburban area also the fare per ride could be reduced slighly so the number of passenger will increase and the drives fares will be increase too, the Rural type is offering the best fare per ride compared with the others then if this fare is reduced slightly, the number of rides will be increased an the variation in the fares per druver will increase too.
