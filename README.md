@@ -10,6 +10,10 @@ Analysis using Mathplotlib, pandas and Numpy
 
 # Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
+![summarize_pyber_df](Resources/summarize_pyber_df.png)
+
+
 
 
 # Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+![Total_fare](Resources/Total_Fare_by_City_Type.png)
